@@ -1,0 +1,59 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "c9c00ea1780d59e6b4ac45a571618bf9e91182ea607df19f67ad5b9496048baf"
+        },
+        "host-environment-markers": {
+            "implementation_name": "cpython",
+            "implementation_version": "0",
+            "os_name": "posix",
+            "platform_machine": "x86_64",
+            "platform_python_implementation": "CPython",
+            "platform_release": "15.4.0",
+            "platform_system": "Darwin",
+            "platform_version": "Darwin Kernel Version 15.4.0: Fri Feb 26 22:08:05 PST 2016; root:xnu-3248.40.184~3/RELEASE_X86_64",
+            "python_full_version": "2.7.10",
+            "python_version": "2.7",
+            "sys_platform": "darwin"
+        },
+        "pipfile-spec": 6,
+        "requires": {},
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "3713f38": {
+            "path": "./../properties"
+        },
+        "attrs": {
+            "hashes": [],
+            "version": "==17.4.0"
+        },
+        "funcsigs": {
+            "hashes": [],
+            "version": "==1.0.2"
+        },
+        "pluggy": {
+            "hashes": [],
+            "version": "==0.6.0"
+        },
+        "py": {
+            "hashes": [],
+            "version": "==1.5.2"
+        },
+        "pytest": {
+            "hashes": [],
+            "version": "==3.3.2"
+        },
+        "six": {
+            "hashes": [],
+            "version": "==1.11.0"
+        }
+    },
+    "develop": {}
+}
